@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-ai-api",
+  "version": "1.0.0",
+  "description": "AI-powered product description generator",
+  "main": "api/generate.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "openai": "^4.2.1"
+  }
+}
